@@ -1,0 +1,4 @@
+<aura:component implements="lightning:availableForFlowActions" access="global" >
+    <aura:attribute name="Request" type="String" />
+    <aura:attribute name="Response" type="String[]" />
+</aura:component>
