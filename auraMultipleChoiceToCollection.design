@@ -1,0 +1,4 @@
+<design:component>
+    <design:attribute name="Request" label="INPUT: multiple choise result (checkbox group / multi-select)" />
+    <design:attribute name="Response" label="OUTPUT: parsed to List type" />
+</design:component>
